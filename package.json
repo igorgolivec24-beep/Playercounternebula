@@ -1,0 +1,12 @@
+{
+  "name": "nebula-player-counter",
+  "version": "1.0.0",
+  "description": "Player counter for Nebula Visuals",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
